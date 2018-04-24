@@ -1,6 +1,8 @@
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
-##How to use :
+#How to use :
+
+Clone : `git clone https://github.com/yudhasubki/Laravel-Vue-using-LaravelMix.git`
 
 1. write : 
    `php artisan key:generate`
